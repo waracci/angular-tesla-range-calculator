@@ -51,6 +51,7 @@ import { BatteryService } from '../../tesla-battery.service';
           and climate conditions.
         </p>
         <p>Thanks<a href="https://toddmotto.com/building-tesla-range-calculator-angular-2-reactive-forms"> Todd Motto </a>for the tutorial.</p>
+        <p>Twitter: <a href="https://twitter.com/mysticwarachi">waracci</a></p>
       </div>
   </form>  
   `,
